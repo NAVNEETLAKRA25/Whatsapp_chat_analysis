@@ -1,0 +1,6 @@
+pandas==2.2.2
+matplotlib==3.9.2
+numpy==1.26.4
+regex==2024.5.15
+nltk==3.9.1
+urlextract==1.9.0
